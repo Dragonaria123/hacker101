@@ -23,3 +23,6 @@ Lessons
 - [Source Code Review](/sessions/source_review)
 - [XML External Entities](/sessions/xxe)
 - [Cookie Tampering Techniques](/sessions/cookie_tampering)
+
+
+alert("YOU ARE UNDER ARREST HACKER")
